@@ -1,0 +1,6 @@
+path: E:/DOCUMENTOS/01 UNB/6º SEMESTRE/IIA/Projeto_2_IIA/dataset
+train: images/train
+val: images/val
+
+names:
+  0: tree
